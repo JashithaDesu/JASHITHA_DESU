@@ -36,11 +36,11 @@ These courses strengthen my understanding of modern systems, how to evaluate and
 ---
 # Featured Projects
 - **1. AI Agent for Kubernetes Incident Diagnosis**: A tool-calling LLM agent (Qwen via Ollama) that diagnoses Kubernetes faults from pods, events and logs, and applies fixes under a policy layer that decides between auto-execution, human approval, or denial.
- - Tech stack: Python Ollama  Kubernetes  RBAC
+   Tech stack: Python Ollama  Kubernetes  RBAC
 - **2. Simple FaaS**: Function-as-a-Service on Kubernetes. A serverless platform built from scratch without Knative or OpenFaaS, using a custom CRD and a Go controller that manages the full function lifecycle through a gateway.
- - Tech Stack: Go Kubernetes controller-runtime  kind
+   Tech Stack: Go Kubernetes controller-runtime  kind
 - **3. Deepfake Video Detector**: A video classifier (YOLOv8n + EfficientNet-B0, 0.986 ROC-AUC) deployed as a FastAPI service on AWS EC2 through a GitHub Actions pipeline, running two models in 1 GB of RAM.
-- Tech Stack: PyTorch  FastAPI   Docker   AWS EC2   GitHub Actions
+  Tech Stack: PyTorch  FastAPI   Docker   AWS EC2   GitHub Actions
 
 ---
 # Currently
