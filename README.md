@@ -48,5 +48,5 @@ Tech Stack: PyTorch  FastAPI   Docker   AWS EC2   GitHub Actions
     • Looking for a master's thesis or other roles related to  DevOps, cloud orchestration, or AI for operations (starting 2027)
 
  
- - **Feel free to explore my repositories, and reach out if you'd like to collaborate.**
+   **Feel free to explore my repositories, and reach out if you'd like to collaborate.**
 
