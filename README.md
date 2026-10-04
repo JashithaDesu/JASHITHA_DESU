@@ -1,8 +1,9 @@
 ## Hi, I'm Jashitha Desu 👋
-# MSc Software Engineering student at Blekinge Institute of Technology (BTH), Sweden.
+**MSc Software Engineering student at Blekinge Institute of Technology (BTH), Sweden.**
 I'm  focused on DevOps, cloud infrastructure, and platform engineering.
 What draws me to DevOps is the gap between deploying code and running it reliably. I like working on the parts that keep systems healthy after deployment: automated pipelines, orchestration, monitoring, and fast recovery when things break.
 That interest shapes what I build. I wrote a Kubernetes controller in Go to understand orchestration from the inside, built an LLM agent that diagnoses cluster failures and proposes fixes under strict safety policies, and as part of coursework a research proposal on  measuring how rollback automation affects production downtime was planned.
+
 ---
 # Current Coursework (MS Software Engineering)
     • Research Methodologies 
